@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title></title>
+    <title>Sistem Pengolahan Data</title>
 
     <!-- Custom fonts for this template-->
     <link href="<?=base_url('assets/backend/vendor/fontawesome-free/css/all.min.css');?>" rel="stylesheet" type="text/css">
@@ -22,6 +22,8 @@
     <link href="<?=base_url('assets/backend/css/sb-admin-2.min.css');?>" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+	<script src="<?= base_url('assets/backend/'); ?>vendor/jquery/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.0/dist/chart.min.js"></script>
 
 </head>
 
