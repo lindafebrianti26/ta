@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Sistem Pengolahan Data</title>
+    <title>Polindes Budi Ayu</title>
 
     <!-- Custom fonts for this template-->
     <link href="<?=base_url('assets/backend/vendor/fontawesome-free/css/all.min.css');?>" rel="stylesheet" type="text/css">
@@ -36,11 +36,11 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
                 <div class="">
                     <i class=""></i>
                 </div>
-                <div class="">Sistem Pengolahan Data <sup></sup></div>
+                <div class="">Polindes Budi Ayu <sup></sup></div>
                
             </a>
 
